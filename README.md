@@ -1,6 +1,6 @@
 # copilot-alternative-benchmark: twelve checks that catch the failure a Copilot replacement is most likely to have
 
-Kortix is the open-source AI Operating System: your agents, skills, company memory and connectors in one git repository you own. This repository is a small, runnable benchmark for the question every team asks before it replaces per-seat Copilot with an open-source system — *does it answer from our documents, and does it say so when it cannot?*
+Kortix is the open-source CompanyOS: your agents, skills, company memory and connectors in one git repository you own. This repository is a small, runnable benchmark for the question every team asks before it replaces per-seat Copilot with an open-source system — *does it answer from our documents, and does it say so when it cannot?*
 
 Every vendor demo answers that question the same way, with a good answer. This harness asks the questions a demo avoids.
 
